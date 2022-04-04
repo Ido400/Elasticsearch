@@ -1,0 +1,2 @@
+class FailedConnectionElastic(Exception):
+    pass

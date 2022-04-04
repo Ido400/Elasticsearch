@@ -1,0 +1,1 @@
+sudo docker-compose run --rm --no-deps pokemon_app python /usr/app/recreate_es_index.py

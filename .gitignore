@@ -1,0 +1,6 @@
+/app/*/__pycache__/
+/app/__pycache__/
+env
+/app/logs/
+__pycache__
+logs

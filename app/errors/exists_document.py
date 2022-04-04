@@ -1,0 +1,2 @@
+class ExistsDocument(Exception):
+    pass
